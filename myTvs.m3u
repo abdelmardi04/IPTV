@@ -111,16 +111,20 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="News",海外|CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="6139" tvg-name="BBC News" tvg-logo="https://static.epg.best/gb/BBCNews.uk.png" group-title="News",海外|BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-name="SkyNews English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsInternational.uk" group-title="News",海外|SkyNews English
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",海外|TRT World
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",海外|ChannelNewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="News",海外|NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",海外|France 24 English
 http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="734" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",海外|France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/m3zSu8l.png" group-title="News",海外|FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",海外|CBS News National
@@ -135,8 +139,6 @@ http://210.210.155.37/dr9445/h/h37/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/vijNHIo.png" group-title="Science",海外|NASA TV UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
-#EXTINF:-1 tvg-id="MNBWorld.mn" tvg-logo="https://i.imgur.com/PHlj84Q.png" group-title="General",海外|MNB world
-https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",港台|东森娱乐台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Celestial Movies
