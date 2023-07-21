@@ -149,6 +149,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",港台|东森新闻
 http://udnhls.skilldns.com:80/dsxw.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="Movies",港台|东森电影
+http://162.19.247.76:22222/live/dsdyt/index.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Celestial Movies
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://i.imgur.com/601hQsF.png" group-title="Business",港台|点掌财经
