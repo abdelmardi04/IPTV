@@ -149,7 +149,7 @@ http://23.237.98.42:8080/USA_CNBC/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="1007" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="Movies",海外|HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="6168" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Science",海外|NASA TV Public
+#EXTINF:-1 tvg-id="6165" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Science",海外|NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="6168" tvg-logo="https://i.imgur.com/vijNHIo.png" group-title="Science",海外|NASA TV UHD
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
