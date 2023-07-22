@@ -152,14 +152,22 @@ http://23.237.98.42:8080/USA_CNBC/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="News",海外|CBS News Chicago
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO
+http://103.112.191.9:880/LAOSAT1089.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO2
+http://185.188.188.235/live/hbo2/playlist.m3u8
+#EXTINF:-1 tvg-id="FightSports.us"  group-title="Movies",豆瓣电影
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 tvg-id="FightSports.us"  group-title="Movies",斗鱼电影
+http://epg.112114.xyz/douyu/2436390
 #EXTINF:-1 tvg-id="1007" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="Movies",海外|HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="6165" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Science",海外|NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="6168" tvg-logo="https://i.imgur.com/vijNHIo.png" group-title="Science",海外|NASA TV UHD
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Celestial Movies
-http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="Sports",海外|ESPN
+http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",海外|Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="	BloombergTV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",海外|Bloomberg TV Asia
@@ -168,14 +176,6 @@ http://210.210.155.37/dr9445/h/h03/index.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",海外|FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO
-http://103.112.191.9:880/LAOSAT1089.m3u8
-#EXTINF:-1 tvg-id="FightSports.us"  group-title="Movies",豆瓣电影
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="FightSports.us"  group-title="Movies",斗鱼电影
-http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="Sports",海外|ESPN
-http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://seeklogo.com/vector-logo/314680/playboy-tv.png" group-title="Business",海外|PlayBoy
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://seeklogo.com/vector-logo/492085/penthouse-tv.png" group-title="Business",海外|PENTHOUSE
