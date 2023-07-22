@@ -1,4 +1,3 @@
-＃EXTM3U url-tvg =“http://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="General",CCTV-1综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226231/index.m3u8
@@ -174,7 +173,7 @@ http://epg.112114.xyz/douyu/2436390
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://i.imgur.com/601hQsF.png" group-title="Business",港台|点掌财经
-http://cclive.aniu.tv/live/anzb.m3u8
+http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://seeklogo.com/vector-logo/314680/playboy-tv.png" group-title="Business",海外|PlayBoy
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://seeklogo.com/vector-logo/492085/penthouse-tv.png" group-title="Business",海外|PENTHOUSE
