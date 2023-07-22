@@ -72,7 +72,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="Movies",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Clarity4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Movies",Clarity4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",NewTV超级电影 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
@@ -125,25 +125,25 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="6023"tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="News",海外|CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="664" tvg-name="BBC News" tvg-logo="https://static.epg.best/gb/BBCNews.uk.png" group-title="News",海外|BBC
+#EXTINF:-1 tvg-id="664" tvg-name="BBC News" tvg-logo="https://seeklogo.com/vector-logo/399020/bbc-news.png" group-title="News",海外|BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="734" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",海外|France 24 English
+#EXTINF:-1 tvg-id="734" tvg-name="France 24 English" tvg-logo="https://seeklogo.com/vector-logo/57269/france-24" group-title="News",海外|France 24 English
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="News",海外|DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg" group-title="News",海外|ABC News US
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png" group-title="News",海外|ABC News US
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABC" tvg-logo="https://epg.112114.xyz/logo/ABC.png" group-title="News",海外|ABC News
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:0 tvg-id="6183" tvg-name="euronews" tvg-id="euro-news-yt" tvg-logo="https://i.imgur.com/lMaRRrs.png" group-title="News",海外|EuroNews
+#EXTINF:0 tvg-id="6183" tvg-name="euronews" tvg-id="euro-news-yt" tvg-logo="https://seeklogo.com/vector-logo/470736/euronews.png" group-title="News",海外|EuroNews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="SkyNews English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsInternational.uk" group-title="News",海外|SkyNews English
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",海外|TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX NewsNOW" tvg-logo="https://i.imgur.com/m3zSu8l.png" group-title="News",海外|FOX NewsNOW
+#EXTINF:-1 tvg-id="" tvg-name="FOX NewsNOW" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="News",海外|FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://seeklogo.com/vector-logo/97698/nbc" group-title="News",海外|NBC News
+#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://seeklogo.com/vector-logo/469476/nbc-news-2023.png" group-title="News",海外|NBC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="688" tvg-logo="http://n.ysyz.top:99/buyaolian/CNBC.png" group-title="News",海外|CNBC
 http://23.237.98.42:8080/USA_CNBC/index.m3u8
