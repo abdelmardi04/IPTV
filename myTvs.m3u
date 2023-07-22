@@ -139,7 +139,7 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",海外|TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX NewsNOW" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="News",海外|FOX NewsNOW
+#EXTINF:-1 tvg-id="" tvg-name="FOX NewsNOW" tvg-logo="https://seeklogo.com/vector-logo/323595/fox-news.png" group-title="News",海外|FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://seeklogo.com/vector-logo/469476/nbc-news-2023.png" group-title="News",海外|NBC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
