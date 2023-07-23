@@ -111,7 +111,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",港台|东森新闻
 http://udnhls.skilldns.com:80/dsxw.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森财经新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻",港台|东森财经新闻
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻",港台|东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",港台|TVB Jade (翡翠台)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -147,6 +147,8 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",海外|TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="AJE" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="News",海外|半岛 AJE
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX NewsNOW" tvg-logo="https://seeklogo.com/images/F/fox-news-logo-0989A0F2B3-seeklogo.com.png" group-title="News",海外|FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://seeklogo.com/vector-logo/469476/nbc-news-2023.png" group-title="News",海外|NBC News
@@ -178,6 +180,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="Sports",海外|ESPN
 http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="CBS Sport" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="Sports",海外|CBS Sport
+http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",海外|Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",海外|FIGHT SPORTS
@@ -190,3 +194,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://seeklogo.com/vector-logo/492085/penthouse-tv.png" group-title="Business",海外|PENTHOUSE
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 tv-id="Hustler" tvg-logo="" group-title="Business",海外|Hustler
+http://193.33.240.8:8080/hustler_hd/index.m3u8
+#EXTINF:-1 tv-id="Jasmin TV" tvg-logo="" group-title="Business",海外|Jasmin TV
+http://109.71.163.112:1935/live/hd.jasminchannel.stream/chunklist_w342629205.m3u8
