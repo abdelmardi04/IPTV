@@ -40,9 +40,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221225785/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN
 http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://pic4.zhimg.com/80/v2-c352e49bb4465fd7159b022420c8fefb_qhd.jpg" group-title="上海",东方卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221225797/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="上海",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225125243158.png" group-title="上海",东方卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育频道
 http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
