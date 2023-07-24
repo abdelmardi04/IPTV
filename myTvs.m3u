@@ -176,6 +176,8 @@ https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/
 http://162.19.247.76:22222/live/dsdyt/index.m3u8
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="Movies",港台|东森洋片
 http://103.112.191.9:880/LAOSAT1018.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" tvg-logo="http://subject.lib.mcu.edu.tw/sites/default/files/u13/ebc-emovie-live.jpg" group-title="Movies",港台|东森洋片
+http://103.112.191.9:880/LAOSAT1018.m3u8
 #EXTINF:-1 tvg-id="FightSports.us"  group-title="Movies",豆瓣电影
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-id="FightSports.us"  group-title="Movies",斗鱼电影
