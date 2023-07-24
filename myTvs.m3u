@@ -40,7 +40,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221225785/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN
 http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="上海",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://pic4.zhimg.com/80/v2-c352e49bb4465fd7159b022420c8fefb_qhd.jpg" group-title="上海",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221225797/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="上海",东方卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
@@ -58,8 +58,6 @@ http://117.135.56.6:6060/cms001/ch00000090990000001128/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://n.ysyz.top:99/buyaolian/mlzq.png" group-title="上海",魅力足球
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",上海第一财经
-http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://www.fengyuntv.net/images/tai/diyicaijing.jpg" group-title="上海",上海第一财经
 http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
