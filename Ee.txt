@@ -46,6 +46,9 @@ http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://n.ysyz.top:99/buyaolian/mlzq.png" group-title="Sports",魅力足球
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://www.fengyuntv.net/images/tai/diyicaijing.jpg" group-title="Business",上海第一财经
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="Business",上海第一财经
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="Movies",东方影视
