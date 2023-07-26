@@ -166,6 +166,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://seeklogo.com/vector-logo/469476/nbc-news-2023.png" group-title="News",海外|NBC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://seeklogo.com/vector-logo/469476/nbc-news-2023.png" group-title="News",海外|NBC News
+http://61.221.81.93:8078/hls/24/80/cnbc90.m3u8
 #EXTINF:-1 tvg-id="688" tvg-logo="http://n.ysyz.top:99/buyaolian/CNBC.png" group-title="News",海外|CNBC
 http://23.237.98.42:8080/USA_CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",海外|CBS News National
