@@ -99,8 +99,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="卫视",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="General",港台|鳳凰衛視中文
-http://103.112.191.9:880/LAOSAT1015.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰电影" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="General",港台|鳳凰电影
+http://113.117.74.45:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="News",港台|凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="新唐人" tvg-logo="" group-title="News",港台|新唐人
@@ -180,10 +180,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="Movies",港台|东森电影
 http://162.19.247.76:22222/live/dsdyt/index.m3u8
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="Movies",港台|东森电影
-http://103.112.191.9:880/LAOSAT1017.m3u8
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="Movies",港台|东森洋片
-http://103.112.191.9:880/LAOSAT1018.m3u8
+http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://p1.ssl.qhmsg.com/dr/270_500_/t012640d00ddfe97175.jpg" group-title="Movies",豆瓣电影
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://pic4.zhimg.com/v2-35fd0e03472680f707753199446baea0_1200x500.jpg" group-title="Movies",斗鱼电影
