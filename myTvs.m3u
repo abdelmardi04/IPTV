@@ -187,7 +187,7 @@ http://103.112.191.9:880/LAOSAT1082.m3u8
 #EXTINF:-1 tvg-id="828" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Celestial Movies
 http://210.210.155.37/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO
-http://185.188.188.235/live/hbo2/playlist.m3u8
+http://185.188.188.235/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBO MAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO MAX
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO2
