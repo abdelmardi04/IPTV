@@ -182,16 +182,12 @@ https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/
 http://162.19.247.76:22222/live/dsdyt/index.m3u8
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="Movies",港台|东森洋片
 http://162.19.247.76:22222/live/dsypt/index.m3u8
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://p1.ssl.qhmsg.com/dr/270_500_/t012640d00ddfe97175.jpg" group-title="Movies",豆瓣电影
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://pic4.zhimg.com/v2-35fd0e03472680f707753199446baea0_1200x500.jpg" group-title="Movies",斗鱼电影
-http://epg.112114.xyz/douyu/2436390
 #EXTINF:-1 tvg-id="517" tvg-name="星卫电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="Movies",星卫电影台
 http://103.112.191.9:880/LAOSAT1082.m3u8
 #EXTINF:-1 tvg-id="828" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Celestial Movies
 http://210.210.155.37/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO
-http://103.112.191.9:880/LAOSAT1089.m3u8
+http://185.188.188.235/live/hbo2/playlist.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBO MAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO MAX
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO2
