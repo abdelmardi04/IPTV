@@ -188,6 +188,10 @@ http://103.112.191.9:880/LAOSAT1082.m3u8
 http://210.210.155.37/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-id="828" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Thrill Movies
 http://210.210.155.37/session/7991285a-a764-11ec-a06a-c81f66f89318/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Movies" tvg-logo="" group-title="Movies",海外|AMC Movies
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Thrillers" tvg-logo="" group-title="Movies",海外|AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO
 http://185.188.188.235/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBO MAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO MAX
