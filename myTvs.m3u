@@ -131,9 +131,9 @@ https://cdn.hklive.tv/xxxx/82/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="News",海外|NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="1158" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="News",海外|CNN
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="News",海外|CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="1158" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="News",海外|CNN
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="News",海外|CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-E3DECDA65A-seeklogo.com.png" group-title="News",海外|BBC
 https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
@@ -154,7 +154,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABC" tvg-logo="https://epg.112114.xyz/logo/ABC.png" group-title="News",海外|ABC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:0 tvg-id="EuronewsAlbania.al" tvg-name="euronews" tvg-id="euro-news-yt" tvg-logo="https://seeklogo.com/vector-logo/470736/euronews.png" group-title="News",海外|EuroNews
+#EXTINF:0 tvg-id="6183" tvg-name="euronews" tvg-id="euro-news-yt" tvg-logo="https://seeklogo.com/vector-logo/470736/euronews.png" group-title="News",海外|EuroNews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="SkyNews English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsInternational.uk" group-title="News",海外|SkyNews English
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
