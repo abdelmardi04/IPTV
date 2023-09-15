@@ -148,7 +148,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="News",海外|DW English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-id="730" tvg-name="GB News" tvg-logo="" group-title="News",海外|GB News
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="" group-title="News",海外|GB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png" group-title="News",海外|ABC News US
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
