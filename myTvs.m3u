@@ -136,9 +136,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="News",海外|CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-E3DECDA65A-seeklogo.com.png" group-title="News",海外|BBC
-https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-E3DECDA65A-seeklogo.com.png" group-title="News",海外|BBC
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBC America" tvg-logo="" group-title="News",海外|BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 
@@ -153,7 +153,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png" group-title="News",海外|ABC News US
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABC" tvg-logo="https://epg.112114.xyz/logo/ABC.png" group-title="News",海外|ABC News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 tvg-id="6183" tvg-name="euronews" tvg-id="euro-news-yt" tvg-logo="https://seeklogo.com/vector-logo/470736/euronews.png" group-title="News",海外|EuroNews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="SkyNews English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsInternational.uk" group-title="News",海外|SkyNews English
@@ -180,8 +180,6 @@ http://162.19.247.76:22222/live/dsypt/index.m3u8
 http://103.112.191.9:880/LAOSAT1082.m3u8
 #EXTINF:-1 tvg-id="828" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Celestial Movies
 http://210.210.155.37/dr9445/h/h14/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Thrill Movies
-http://210.210.155.37/session/7991285a-a764-11ec-a06a-c81f66f89318/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC Movies" tvg-logo="" group-title="Movies",海外|AMC Movies
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC Thrillers" tvg-logo="" group-title="Movies",海外|AMC Thrillers
