@@ -218,8 +218,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://seeklogo.com/vector-logo/314680/playboy-tv.png" group-title="Business",海外|PlayBoy
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
 #EXTINF:-1 tv-id="" tvg-logo="https://seeklogo.com/vector-logo/492085/penthouse-tv.png" group-title="Business",海外|PENTHOUSE
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+http://51.159.102.100/PenthouseGold/index.m3u8
 #EXTINF:-1 tv-id="Hustler" tvg-logo="" group-title="Business",海外|Hustler
-http://23.237.100.82:8000/HUSTLER/index.m3u8
+http://78.47.224.234/puretaboo/index.m3u8
 #EXTINF:-1 tv-id="Jasmin TV" tvg-logo="" group-title="Business",海外|Jasmin TV
 http://109.71.163.112:1935/live/hd.jasminchannel.stream/chunklist_w342629205.m3u8
