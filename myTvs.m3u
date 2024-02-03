@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="General",CCTV-1综合
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="Business",CCTV-2财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+http://39.134.66.110/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="Entertainment",CCTV-3综艺
 http://117.135.56.6:6060/cms001/ch00000090990000001186/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="General",CCTV-4中文国际
