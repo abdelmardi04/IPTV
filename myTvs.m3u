@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="General",CCTV-1综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226231/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="Business",CCTV-2财经
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226195/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="Entertainment",CCTV-3综艺
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226397/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="General",CCTV-4中文国际
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226191/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5体育
 http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+体育赛事
@@ -17,19 +17,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="CCTV-风云足球" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="Sports",CCTV-风云足球
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="Movies",CCTV-6电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226011/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001188/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="Entertainment",CCTV-8电视剧
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226391/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001189/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="Documentary",CCTV-9纪录
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226197/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001237/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="Education",CCTV-10科教
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226189/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001238/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="Entertainment",CCTV-12社会与法
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226190/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001239/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="News",CCTV-13新闻
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221226233/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001328/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="Music",CCTV-15音乐
-http://dbiptv.sn.chinamobile.com/PLTV/88888910/224/3221225785/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001338/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="Music",CCTV-16奥林匹克
 http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN
@@ -85,19 +85,19 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",NewTV超级电影 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="卫视",北京卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="卫视",湖南卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001026/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="卫视",江苏卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001033/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="卫视",浙江卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001023/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="卫视",辽宁卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001035/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="卫视",深圳卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001030/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="卫视",广东卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
+http://117.135.56.6:6060/cms001/ch00000090990000001032/index.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰电影" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="General",港台|鳳凰电影
 http://113.117.74.45:8081/hls/38/index.m3u8
