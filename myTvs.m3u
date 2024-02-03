@@ -13,7 +13,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="CCTV-风云足球" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="Sports",CCTV-风云足球
-http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+extension://emnphkkblegpebimobpbekeedfgemhof/player.html#http://39.134.66.110/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="Movies",CCTV-6电影
 http://117.135.56.6:6060/cms001/ch00000090990000001188/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="Entertainment",CCTV-8电视剧
@@ -67,17 +67,17 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="Movies",欢笑剧场4K
 http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="Movies",CHC动作电影
-http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+http://39.134.66.110/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="Movies",CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://39.134.66.110/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="Movies",CHC家庭影院
-http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+http://39.134.66.110/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="Movies",CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+http://39.134.66.110/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="Movies",CHC高清电影
-http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+http://39.134.66.110/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="Movies",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://39.134.66.110/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Movies",Clarity4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",NewTV超级电影 (1080p)
