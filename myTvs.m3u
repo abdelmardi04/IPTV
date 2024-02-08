@@ -36,7 +36,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育频道
 http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",上视新闻
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/59/STVlogo.png/300px-STVlogo.png" group-title="上海",上视新闻
 http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="https://epg.112114.xyz/logo/ICS.png" group-title="上海",上视外语频道
 http://117.135.56.6:6060/cms001/ch00000090990000001128/index.m3u8
