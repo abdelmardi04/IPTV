@@ -166,11 +166,11 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="News",海外|CBS News Chicago
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="Movies",港台|东森电影
-http://198.16.100.90:8278/ettvmovie/playlist.m3u8
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="Movies",港台|东森洋片
-http://198.16.100.90:8278/ettvwestern/playlist.m3u8
+http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 #EXTINF:-1 tvg-id="517" tvg-name="星卫电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="Movies",星卫电影台
-http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 #EXTINF:-1 tvg-id="828" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Celestial Movies
 http://210.210.155.37/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC Movies" tvg-logo="" group-title="Movies",海外|AMC Movies
@@ -178,7 +178,7 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="AMC Thrillers" tvg-logo="" group-title="Movies",海外|AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO
-http://185.188.188.235/live/hbo/playlist.m3u8
+http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBO MAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO HITS
 http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO2
