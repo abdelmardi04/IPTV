@@ -184,8 +184,7 @@ http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=1
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Movies",海外|HBO2
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 #EXTINF:-1 tvg-id="1007" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="Movies",海外|HITS
-http://210.210.155.37/dr9445/h/h37/index.m3u8
-
+http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 #EXTINF:-1 tvg-id="6165" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Science",海外|NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="6168" tvg-logo="https://i.imgur.com/vijNHIo.png" group-title="Science",海外|NASA TV UHD
