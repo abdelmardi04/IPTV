@@ -128,6 +128,8 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ABC News (Australia)" tvg-logo="" group-title="News",海外|ABC News (Australia)
 https://www.youtube.com/user/NewsOnABC/live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Linux; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://www.youtube.com/@SkyNews/live
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",海外|ChannelNewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="News",海外|NHK World
