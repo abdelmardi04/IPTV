@@ -88,6 +88,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="News",海外|CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="7100" tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABC.png" group-title="News",海外|ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",海外|CBS News National
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX NewsNOW" tvg-logo="https://seeklogo.com/images/F/fox-news-logo-0989A0F2B3-seeklogo.com.png" group-title="News",海外|FOX NewsNOW
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://seeklogo.com/vector-logo/469476/nbc-news-2023.png" group-title="News",海外|NBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-E3DECDA65A-seeklogo.com.png" group-title="News",海外|BBC
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France24English
@@ -96,22 +104,14 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="" group-title="News",海外|GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABC.png" group-title="News",海外|ABC News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 tvg-id="6183" tvg-name="euronews" tvg-id="euro-news-yt" tvg-logo="https://seeklogo.com/vector-logo/470736/euronews.png" group-title="News",海外|EuroNews
 https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="688" tvg-logo="http://n.ysyz.top:99/buyaolian/CNBC.png" group-title="News",海外|CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",海外|TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="News",海外|AJE
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX NewsNOW" tvg-logo="https://seeklogo.com/images/F/fox-news-logo-0989A0F2B3-seeklogo.com.png" group-title="News",海外|FOX NewsNOW
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://seeklogo.com/vector-logo/469476/nbc-news-2023.png" group-title="News",海外|NBC News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 tvg-id="688" tvg-logo="http://n.ysyz.top:99/buyaolian/CNBC.png" group-title="News",海外|CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",海外|CBS News National
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC Movies" tvg-logo="" group-title="Movies",海外|AMC Movies
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC Thrillers" tvg-logo="" group-title="Movies",海外|AMC Thrillers
