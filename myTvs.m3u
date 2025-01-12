@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="734" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",海外|France24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="General",CCTV-1综合
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="Business",CCTV-2财经
@@ -137,8 +139,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa86
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-E3DECDA65A-seeklogo.com.png" group-title="News",海外|BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="734" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",海外|France24 English
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
 #EXTINF:-1 tvg-id="730" tvg-name="DW English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="News",海外|DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="" group-title="News",海外|GB News
