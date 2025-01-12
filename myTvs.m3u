@@ -12,8 +12,6 @@ http://117.135.56.6:6060/cms001/ch00000090990000001221/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="Sports",咪咕体育
-http://39.134.66.2/PLTV/88888888/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="CCTV-风云足球" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="Sports",CCTV-风云足球
 http://58.19.38.162:9901/tsfile/live/1034_1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="Movies",CCTV-6电影
@@ -33,15 +31,13 @@ http://117.135.56.6:6060/cms001/ch00000090990000001338/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="Music",CCTV-16奥林匹克
 http://117.135.56.6:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育频道
 http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/59/STVlogo.png/300px-STVlogo.png" group-title="上海",上视新闻
 http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="https://epg.112114.xyz/logo/ICS.png" group-title="上海",上视外语频道
-http://117.135.56.6:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
 http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://www.fengyuntv.net/images/tai/diyicaijing.jpg" group-title="上海",上海第一财经
@@ -58,8 +54,6 @@ http://117.135.56.6:6060/cms001/ch00000090990000001019/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1 tvg-id="1992" tvg-name="东方购物频道" tvg-logo="https://epg.112114.xyz/logo/dongfanggouwu.png" group-title="上海",东方购物频道
 http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://n.ysyz.top:99/buyaolian/mlzq.png" group-title="上海",魅力足球
-http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="Movies",欢笑剧场4K
 http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="Movies",CHC动作电影
