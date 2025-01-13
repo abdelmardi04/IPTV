@@ -122,12 +122,14 @@ http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeWomenEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Undefined",Showtime Women East
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-
+#EXTINF:-1 tvg-id="HBO_XTREME" tvg-logo="" group-title="Undefined",HBO XTREME
 http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-id="HBO_PLUS" tvg-logo="" group-title="Undefined",HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="" group-title="Undefined",HBO2
 http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO_FAMILY" tvg-logo="" group-title="Undefined",HBO FAMILY
 http://170.254.18.106/HBO_FAMILY/index.m3u8
-
 #EXTINF:-1 tvg-id="6140" tvg-name="	BloombergTV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",海外|Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",海外|Classic Arts Showcase
