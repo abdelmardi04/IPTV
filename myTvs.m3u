@@ -75,7 +75,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="News",海外|NHK World
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia (720p) [Not 24/7]
-https://c.mjh.nz/abc-news.m3u8
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="News",海外|CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABC.png" group-title="News",海外|ABC News
@@ -134,6 +134,7 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",海外|Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
 
 
 
