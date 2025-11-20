@@ -91,7 +91,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",NBC 4 Los Angeles CA (KNBC) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-E3DECDA65A-seeklogo.com.png" group-title="News",海外|BBC
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France24English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="News",海外|DW English
@@ -134,6 +134,7 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",海外|Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
 
 
 
